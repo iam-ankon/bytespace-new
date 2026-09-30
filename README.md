@@ -2,6 +2,8 @@
 
 Implementation of the **ByteSpace New** Figma design for the Doin Tech Limited Jr. Software Engineer (Frontend) assessment.
 
+**Live demo:** https://bytespace-new-rust.vercel.app
+
 ## Pages
 
 | Route       | Description                                                    |
